@@ -1,0 +1,28 @@
+/* For mobile phones: */
+[class*="col-"] {
+	    width: 100%;
+			float: left;
+}
+/* For mobile */
+@media only screen and (max-width: 767px) {
+.navbar-expand {
+	background-color: SlateGray;
+}
+.nav-item a {
+	color: white;
+}
+.container .footer {
+	background-color: white;
+}
+.container h2,p {
+	margin-left: -65px;
+}
+.wrapper {
+	display: table-cell;
+	max-width: 100%;
+}
+.wrapper a {
+	color: black;
+	text-decoration: underline;
+}
+}

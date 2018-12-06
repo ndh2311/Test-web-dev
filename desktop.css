@@ -1,0 +1,15 @@
+/* For desktop: */
+@media only screen and (min-width: 992px) {
+.nav-item a {
+	color:black;
+}
+.container {
+	background-color: #DCDCDC;
+}
+.footer {
+	background-color: #F5F5F5;
+}
+.wrapper a {
+	text-decoration: underline;
+}
+}
